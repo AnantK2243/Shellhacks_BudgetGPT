@@ -1,6 +1,6 @@
 import openai as ai
 
-ai_key = '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'
+ai_key = ''
 ai.api_key = ai_key
 
 def aiResponse(query):
